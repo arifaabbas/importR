@@ -22,7 +22,9 @@ deliminated text files, EXCEL, spreadsheets, and
 statistical packages such as SAS, SPSS, and Stata
 }
 \details{
-Put details in here!
+The \code{import} function is a wrapper for the
+\href{https://haven.tidyverse.org/}{haven},
+\href{https://readxl.tidyverse.org/}{realxl}
 }
 \examples{
 \dontrun{

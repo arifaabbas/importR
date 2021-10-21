@@ -13,7 +13,9 @@
 #'@return a data frame
 #'
 #'@details
-#'Put details in here!
+#'The \code{import} function is a wrapper for the
+#'\href{https://haven.tidyverse.org/}{haven},
+#'\href{https://readxl.tidyverse.org/}{realxl}
 #
 #'@export
 #'
