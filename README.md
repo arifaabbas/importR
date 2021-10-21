@@ -1,5 +1,8 @@
 
 # importR
+
+![](swan-gba007e09d_640.jpg)
+
 The goal of importR is to create an R data frame from 
 external data in SAS, SPSS, or Stata binary files, Excel
 Workbooksm or delimited text files
